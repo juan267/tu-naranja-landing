@@ -51,6 +51,12 @@ p {
 
 span {
   color: #FFA435;
+  text-shadow: none;
+}
+
+#mensaje {
+  color: #FFA435;
+  text-shadow: none;
 }
 
 html,
